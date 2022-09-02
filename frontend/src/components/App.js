@@ -211,6 +211,7 @@ function App() {
         tokenCheck();
         history.push('/');
         setLoggedIn(true);
+        setEmail(email);
       })
       .catch(() =>
       setIsInfoTooltipOpen(true),
