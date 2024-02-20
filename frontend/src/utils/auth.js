@@ -49,7 +49,7 @@ class Auth {
 }
 
 const auth = new Auth({
-  baseUrl: "https://mesto.back.nomorepartiesxyz.ru",
+  baseUrl: "https://backend.mesto.webtm.ru/",
   headers: { 
     "Content-Type": "application/json",
     'Accept': 'application/json',
