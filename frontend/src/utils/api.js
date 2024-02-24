@@ -100,7 +100,7 @@ class Api {
 };
 
 const api = new Api({
-  baseUrl: 'https://mesto.back.nomorepartiesxyz.ru',
+  baseUrl: 'https://backend.mesto.webtm.ru',
 });
 
 export default api;
