@@ -1,4 +1,4 @@
-# [Проектная работа Mesto](https://mesto.front.nomorepartiesxyz.ru/) | Яндекс.Практимум
+# [Проектная работа Mesto](https://mesto.webtm.ru/) | Яндекс.Практимум
 
 Продолжение работы над проектом Mesto на React с добавлением регистрации и авторизации пользователей. Сверстана по  [макету на Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4) с адаптацией под мобильные устройства.
 <br>
